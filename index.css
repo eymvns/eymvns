@@ -1,10 +1,36 @@
-h1{
-    color: aquamarine;
+.hed1
+{
+    color: darkblue;
     text-align: center;
-}
-span{
     font-size: x-large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 900;
+}
+.hed2{
     color: brown;
+    font-size: x-large;
+    text-align: center;
+    font-weight: 200;
+}
+
+.spaaan
+{
+    color: green;
+
+font-size: xx-large;
+}
+.span2
+{
+    color: aqua;
+}
+.divv{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 1cm;
+}
+.divv2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    
 }
