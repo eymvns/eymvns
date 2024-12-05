@@ -1,8 +1,10 @@
 h1{
     color: aquamarine;
+    text-align: center;
 }
 span{
-    font-size: xx-small;
+    font-size: x-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
+    color: brown;
 }
